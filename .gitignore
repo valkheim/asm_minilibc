@@ -1,0 +1,6 @@
+*.o
+*.out
+*.c
+*.so
+mouli_srcs
+moulinette.sh
